@@ -1,4 +1,4 @@
-package org.example;
+package org.example.linckList;
 
 public class Node<T> {
     private T value;

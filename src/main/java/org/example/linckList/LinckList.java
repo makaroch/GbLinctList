@@ -1,4 +1,4 @@
-package org.example;
+package org.example.linckList;
 
 public class LinckList<T> {
     private int size;
